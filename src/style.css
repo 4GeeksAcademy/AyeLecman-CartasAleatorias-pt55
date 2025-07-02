@@ -3,3 +3,19 @@
 body{
     background: white;
 }
+
+.custom-card {
+  width: 15rem;
+  height: 21rem;
+  font-family: 'Playfair Display', serif;
+  border-radius: 1rem;
+}
+
+.suit {
+    font-size: 5rem; 
+    line-height: 1;
+}
+
+.card-title {
+    font-size: 8rem;
+}
